@@ -30,3 +30,7 @@ That board is unstable when its back is touching to a surface,
 This project is developed under a multi-lingual environment,
 so some inline comments are written in Chinese.
 Additional descriptional comment is added for better understanding.
+
+STC89C52RC (with CH340) was used for this project.
+Due to the limitted specification,
+ debug was done by directly mapping data to LED.
